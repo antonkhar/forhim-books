@@ -1,0 +1,28 @@
+{
+ "version": 1,
+ "min_app": 5,
+ "files": {
+  "books-ru.json": "25443d532904af4b",
+  "books-en.json": "0d35c1761360d9a2",
+  "art/cover.svg": "d936eee338f46472",
+  "art/estrogen.svg": "dfd90f0714c45372",
+  "art/heroes.svg": "0b2f463c7fcf879d",
+  "art/lhfsh.svg": "dbf7960d0dc89407",
+  "art/p1.svg": "5f54613776e045d4",
+  "art/p1body.svg": "e7bba8048b80cc57",
+  "art/p1feel.svg": "ec2bf98cb0d9d864",
+  "art/p2.svg": "6e287c59d2cd2a49",
+  "art/p2feel.svg": "b15470fea5050406",
+  "art/p3.svg": "7e7d4dfee1256481",
+  "art/p3feel.svg": "6766e131bebae55e",
+  "art/p4.svg": "6cb936973b76ef55",
+  "art/p4feel.svg": "ddd2aeec967d0422",
+  "art/phases.svg": "332e2da056d955fe",
+  "art/pms.svg": "c6322507b63742c0",
+  "art/pmsbody.svg": "769cb981371d2e29",
+  "art/pmsfeel.svg": "e1f956ae58043ef2",
+  "art/progesterone.svg": "58f68e4b6a0b8f35",
+  "art/testosterone.svg": "a0c775589d90dde5",
+  "art/why.svg": "8a51316e5d521b73"
+ }
+}
